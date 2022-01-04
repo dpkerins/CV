@@ -1,13 +1,13 @@
 ## Doug Kerins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a recent Makers Academy graduate. What I find most interesting about the tech world are the neverending opportunity to learn and creating something new.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **MealStackt**            | A webapp that creates meal plans based on a users nutritional needs. | Javascript, React, ChakraUI, Prisma, NextJS, HTML, CSS |
+| **Acebook** | A facebook dupe. | Ruby, Ruby on Rails, Jest, HTML, CSS, Bootstrap|
 
 ## Work Experience
 
