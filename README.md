@@ -6,7 +6,7 @@ I am a recent Makers Academy graduate. What I find most interesting about the te
 
 | Name                         | Description       | Tech/tools        | Github Link(s) |
 | ---------------------------- | ----------------- | ----------------- | --------------|
-| **MealStack** [Link](https://mealstack.netlify.app/)| A webapp that creates meal plans based on a users nutritional needs. | Javascript, React, ChakraUI, Prisma, NextJS, HTML, CSS |[Front End Repo](https://github.com/ConorButler/mealstack-frontend), [Back End Repo](https://github.com/emanfolo/mealstack-backend) |
+| **MealStack**| A webapp that creates meal plans based on a users nutritional needs. | Javascript, React, ChakraUI, Prisma, NextJS, HTML, CSS | [Live Link](https://mealstack.netlify.app/), [Front End Repo](https://github.com/ConorButler/mealstack-frontend), [Back End Repo](https://github.com/emanfolo/mealstack-backend) |
 | **Acebook** | A facebook dupe. | Ruby, Ruby on Rails, Jest, HTML, CSS, Bootstrap| [Repo](https://github.com/Eagle555/acebook-rails-meta)|
 
 ## Work Experience
@@ -37,16 +37,16 @@ _Administrative Assistant_, New York, USA Mar 2013 - May 2013
 ## Education
 
 #### Makers Academy (August 2021 to December 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, React
-- RSpec, Jasmine
+- 12 week full-time Software Engineering Bootcamp
+- Focus on Self-led learning
+- 3 large group projects and Weekly weekend projects
+- Languages/Tools: Ruby, Javascript, React, Rails, RSpec, Jest, Capybara
+- Key Conceptes: OOP, TDD, MVC, DDD, DRY, Agile
+
+### General Assembly -- Javascript Development Course (April 2016 to July 2016)
+- Part-time course focusing on Javascript Fundamentals and building Front End Web Applications
 
 #### College of William & Mary (August 2008 to May 2012)
-
 - Bachelor of Arts
 - Major in History
 - Minors in Film Studies and Art History
