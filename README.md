@@ -4,7 +4,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaskerins/)
 
-<span>I am a recent Makers Academy graduate. What I find most interesting about the tech world are the neverending opportunity to learn and creating something new.</span>
+<span>I am a recent Makers Academy graduate. What I find most interesting about the tech world are the neverending opportunities to learn and create something new.</span>
 </div>
 
 ## Projects
