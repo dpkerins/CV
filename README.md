@@ -1,6 +1,11 @@
-## Doug Kerins
+<div align="center">
+ 
+<h1>Doug Kerins</h1>
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaskerins/)
 
-I am a recent Makers Academy graduate. What I find most interesting about the tech world are the neverending opportunity to learn and creating something new.
+<span>I am a recent Makers Academy graduate. What I find most interesting about the tech world are the neverending opportunity to learn and creating something new.</span>
+</div>
 
 ## Projects
 
