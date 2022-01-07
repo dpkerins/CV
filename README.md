@@ -6,8 +6,8 @@ I am a recent Makers Academy graduate. What I find most interesting about the te
 
 | Name                         | Description       | Tech/tools        | Github Link(s) |
 | ---------------------------- | ----------------- | ----------------- | --------------|
-| **MealStack**| A webapp that creates meal plans based on a users nutritional needs. | Javascript, React, ChakraUI, Prisma, NextJS, HTML, CSS | [Live Link](https://mealstack.netlify.app/), [Front End Repo](https://github.com/ConorButler/mealstack-frontend), [Back End Repo](https://github.com/emanfolo/mealstack-backend) |
-| **Acebook** | A facebook dupe. | Ruby, Ruby on Rails, Jest, HTML, CSS, Bootstrap| [Repo](https://github.com/Eagle555/acebook-rails-meta)|
+| **MealStack**| A webapp that creates meal plans based on a users nutritional needs created by a 3 person group over 2 weeks. | Javascript, React, ChakraUI, Prisma, NextJS, HTML, CSS | [Live Link](https://mealstack.netlify.app/), [Front End Repo](https://github.com/dpkerins/mealstack-frontend), [Back End Repo](https://github.com/dpkerins/mealstack-backend) |
+| **Acebook** | A facebook dupe created by a 5 person group over 2 weeks. | Ruby, Ruby on Rails, Jest, HTML, CSS, Bootstrap| [Repo](https://github.com/dpkerins/acebook-rails-meta)|
 
 ## Work Experience
 
