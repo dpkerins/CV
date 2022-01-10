@@ -46,7 +46,7 @@ _Administrative Assistant_, New York, USA Mar 2013 - May 2013
 - Focus on Self-led learning
 - 3 large group projects and Weekly weekend projects
 - Languages/Tools: Ruby, Javascript, React, Rails, RSpec, Jest, Capybara
-- Key Conceptes: OOP, TDD, MVC, DDD, DRY, Agile
+- Key Concepts: OOP, TDD, MVC, DDD, DRY, Agile
 
 ### General Assembly -- Javascript Development Course (April 2016 to July 2016)
 - Part-time course focusing on Javascript Fundamentals and building Front End Web Applications
