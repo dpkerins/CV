@@ -40,7 +40,7 @@ Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, 
 - Languages/Tools: Ruby, Javascript, React, Rails, RSpec, Jest, Capybara
 - Key Concepts: OOP, TDD, MVC, DDD, DRY, Agile
 
-### General Assembly -- Javascript Development Course (April 2016 to July 2016)
+#### General Assembly -- Javascript Development Course (April 2016 to July 2016)
 - Part-time course focusing on Javascript Fundamentals and building Front End Web Applications
 
 #### College of William & Mary (August 2008 to May 2012)
