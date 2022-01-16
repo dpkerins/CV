@@ -4,8 +4,19 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaskerins/)
 
-<span>I am a recent Makers Academy graduate. What I find most interesting about the tech world are the neverending opportunities to learn and create something new.</span>
+I recently moved to the UK with my partner, leaving an eight-year career in the film distribution industry. I took this major life change as an opportunity to make the leap into the tech world and recently completed an intensive software development Bootcamp at Makers Academy.
+ 
+What I love about coding is that it feels like solving a puzzle or doing brain teasers, while simultaneously getting to create something. I relish getting to bring a new feature to life or work through learning a new language or technology. During my time at Makers, I worked primarily with Ruby and Javascript. I learned a lot at my time at Makers, but there is always more to learn. I look forward to building a career in the Tech Industry. I am currently learning C#, Typescript and MaterialUI. 
+ 
+I am looking to being a career in London with a role as a Junior Developer. 
+
+Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, Prisma, PostgreSQL
+ 
 </div>
+
+## Skills
+
+
 
 ## Projects
 
