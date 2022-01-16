@@ -4,7 +4,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaskerins/)
  
-[Skills](#skills) | [Projects](#projects) | [Work Experience](#work) | [Education](#education) 
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work)
  
 </div>
 
@@ -31,6 +31,24 @@ Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, 
 | **MealStack**| A webapp that creates meal plans based on a users nutritional needs created by a 3 person group over 2 weeks. | Javascript, React, ChakraUI, Prisma, NextJS, HTML, CSS | [Live Link](https://mealstack.netlify.app/), [Front End Repo](https://github.com/dpkerins/mealstack-frontend), [Back End Repo](https://github.com/dpkerins/mealstack-backend) |
 | **Acebook** | A facebook dupe created by a 5 person group over 2 weeks. | Ruby, Ruby on Rails, Jest, HTML, CSS, Bootstrap| [Repo](https://github.com/dpkerins/acebook-rails-meta)|
 
+## <a name="education">Education</a>
+
+#### Makers Academy (August 2021 to December 2021)
+- 12 week full-time Software Engineering Bootcamp
+- Focus on Self-led learning
+- 3 large group projects and Weekly weekend projects
+- Languages/Tools: Ruby, Javascript, React, Rails, RSpec, Jest, Capybara
+- Key Concepts: OOP, TDD, MVC, DDD, DRY, Agile
+
+### General Assembly -- Javascript Development Course (April 2016 to July 2016)
+- Part-time course focusing on Javascript Fundamentals and building Front End Web Applications
+
+#### College of William & Mary (August 2008 to May 2012)
+- Bachelor of Arts
+- Major in History
+- Minors in Film Studies and Art History
+
+
 ## <a name="work">Work Experience</a>
 
 **Kino Lorber** (January 2013 to June 2021)  
@@ -56,20 +74,4 @@ _Administrative Assistant_, New York, USA Mar 2013 - May 2013
 - Managed email outreach campaigns
 - Researched films and prepared overview sheets for acquisition meetings
 
-## <a name="education">Education</a>
-
-#### Makers Academy (August 2021 to December 2021)
-- 12 week full-time Software Engineering Bootcamp
-- Focus on Self-led learning
-- 3 large group projects and Weekly weekend projects
-- Languages/Tools: Ruby, Javascript, React, Rails, RSpec, Jest, Capybara
-- Key Concepts: OOP, TDD, MVC, DDD, DRY, Agile
-
-### General Assembly -- Javascript Development Course (April 2016 to July 2016)
-- Part-time course focusing on Javascript Fundamentals and building Front End Web Applications
-
-#### College of William & Mary (August 2008 to May 2012)
-- Bachelor of Arts
-- Major in History
-- Minors in Film Studies and Art History
 
