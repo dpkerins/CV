@@ -4,6 +4,8 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaskerins/)
  
+[Skills](#skills) | [Projects](#projects) | [Work Experience](#work) | [Education](#education) 
+ 
 </div>
 
 I recently moved to the UK with my partner, leaving an eight-year career in the film distribution industry. I took this major life change as an opportunity to make the leap into the tech world and recently completed an intensive software development Bootcamp at Makers Academy.
@@ -15,21 +17,21 @@ I am looking to being a career in London with a role as a Junior Developer.
 Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, Prisma, PostgreSQL
  
 
-## Skills
+## <a name="skills">Skills</a>
 
 - <strong>Fast Learner</strong>: I am great at teaching myself new skills in order to complete a project. At Makers, I picked up React and Prisma in order to use them for our final project, both of which were new to everyone on our team. As a member of a two-person growing sales team in my past work, teaching myself new skills like Excel, EDI systems, Sales Management Softwares, was a regular part of my work. 
 - <strong>Attention to Detail</strong>: 
 - <strong>Critical Thinking</strong>: 
 
 
-## Projects
+## <a name="projects">Projects</a>
 
 | Name                         | Description       | Tech/tools        | Github Link(s) |
 | ---------------------------- | ----------------- | ----------------- | --------------|
 | **MealStack**| A webapp that creates meal plans based on a users nutritional needs created by a 3 person group over 2 weeks. | Javascript, React, ChakraUI, Prisma, NextJS, HTML, CSS | [Live Link](https://mealstack.netlify.app/), [Front End Repo](https://github.com/dpkerins/mealstack-frontend), [Back End Repo](https://github.com/dpkerins/mealstack-backend) |
 | **Acebook** | A facebook dupe created by a 5 person group over 2 weeks. | Ruby, Ruby on Rails, Jest, HTML, CSS, Bootstrap| [Repo](https://github.com/dpkerins/acebook-rails-meta)|
 
-## Work Experience
+## <a name="work">Work Experience</a>
 
 **Kino Lorber** (January 2013 to June 2021)  
 _Manager of Special Markets - Sales & Distribution_, New York, USA May 2013 - Jun 2021
@@ -54,7 +56,7 @@ _Administrative Assistant_, New York, USA Mar 2013 - May 2013
 - Managed email outreach campaigns
 - Researched films and prepared overview sheets for acquisition meetings
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (August 2021 to December 2021)
 - 12 week full-time Software Engineering Bootcamp
