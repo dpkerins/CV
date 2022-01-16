@@ -3,6 +3,8 @@
 <h1>Doug Kerins</h1>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaskerins/)
+ 
+</div>
 
 I recently moved to the UK with my partner, leaving an eight-year career in the film distribution industry. I took this major life change as an opportunity to make the leap into the tech world and recently completed an intensive software development Bootcamp at Makers Academy.
  
@@ -12,10 +14,12 @@ I am looking to being a career in London with a role as a Junior Developer.
 
 Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, Prisma, PostgreSQL
  
-</div>
 
 ## Skills
 
+- <strong>Fast Learner</strong>: I am great at teaching myself new skills in order to complete a project. At Makers, I picked up React and Prisma in order to use them for our final project, both of which were new to everyone on our team. As a member of a two-person growing sales team in my past work, teaching myself new skills like Excel, EDI systems, Sales Management Softwares, was a regular part of my work. 
+- <strong>Attention to Detail</strong>: 
+- <strong>Critical Thinking</strong>: 
 
 
 ## Projects
