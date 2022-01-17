@@ -68,3 +68,11 @@ _Administrative Assistant_, New York, USA Mar 2013 - May 2013
 - Researched films and prepared overview sheets for acquisition meetings
 
 
+## <a name="interests">Interests</a>
+- Baking
+- Travel
+- Movies
+- Books
+- Gardening
+
+
