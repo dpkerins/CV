@@ -54,7 +54,7 @@ Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, 
 **Kino Lorber** (January 2013 to June 2021)  
 _Manager of Special Markets - Sales & Distribution_, New York, USA May 2013 - Jun 2021
 - Sales Representative and contract manager for Special Market wholesale accounts, including expanding the existing client base during a period of 3x department revenue growth
--Managed operations for all Wholesale Accounts, including receiving and processing purchase orders, shipping logistics with warehouse, invoicing, sales reporting, account customer service, announcing new products weekly, and working closely with the accounting team
+- Managed operations for all Wholesale Accounts, including receiving and processing purchase orders, shipping logistics with warehouse, invoicing, sales reporting, account customer service, announcing new products weekly, and working closely with the accounting team
 - Team leadership of sales assistants responsible for order management and administration
 
 _Administrative Assistant_, New York, USA Mar 2013 - May 2013
