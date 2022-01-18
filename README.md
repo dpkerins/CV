@@ -4,7 +4,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglaskerins/)
  
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work) | [Interests](#interests)
  
 </div>
 
@@ -17,19 +17,21 @@ I am looking to being a career in London with a role as a Junior Developer.
 Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, Prisma, PostgreSQL
  
 
-## <a name="skills">Skills</a>
-
-- <strong>Fast Self Learner</strong>: I am great at teaching myself new skills in order to complete a project. At Makers, I picked up React and Prisma in order to use them for our final project, both of which were new to everyone on our team. As a member of a two-person growing sales team in my past work, teaching myself new skills like Excel, EDI systems, Sales Management Softwares, was a regular part of my work. 
-- <strong>Attention to Detail</strong>: My strong attention to detail comes across in my programming in specific results, and DRY readable code. In my work I handled many accounts, sales, contracts and supply chain. The complex sales reporting and processing required a strong eye for detail in order to become as profitable as possible. Film Distribution is a royalty business and requires the most accurate sales reporting and accounting to be successful. Though I have an aptitude for attention to detail, I never let perfectionism stop me from achieving and creating a workable result.
-- <strong>Critical Thinking</strong>: One example of my critical thinking is in my work with big box store distributors (fulfilling product to Walmart, BestBuy etc). The sales reporting they provide is deeply complex and required me to use, shipping, cumulative reports and accounting records to create a system to accurately track their sales and the money they owed us. My excel skills came in very handy here as well. I bring this same critical thinking to my coding, like tweaking an existing code snippet to create a solution to a current problem or diagnosing an error. 
-
-
 ## <a name="projects">Projects</a>
 
 | Name                         | Description       | Tech/tools        | Github Link(s) |
 | ---------------------------- | ----------------- | ----------------- | --------------|
 | **MealStack**| A webapp that creates meal plans based on a users nutritional needs created by a 3 person group over 2 weeks. | Javascript, React, ChakraUI, Prisma, NextJS, HTML, CSS | [Live Link](https://mealstack.netlify.app/), [Front End Repo](https://github.com/dpkerins/mealstack-frontend), [Back End Repo](https://github.com/dpkerins/mealstack-backend) |
 | **Acebook** | A facebook dupe created by a 5 person group over 2 weeks. | Ruby, Ruby on Rails, Jest, HTML, CSS, Bootstrap| [Repo](https://github.com/dpkerins/acebook-rails-meta)|
+
+## <a name="skills">Skills</a>
+
+- <strong>Fast Self Learner</strong>: I am great at teaching myself new skills in order to complete a project. At Makers, I picked up React and Prisma in order to use them for our final project, both of which were new to everyone on our team. As a member of a two-person growing sales team in my past work, teaching myself new skills like Excel, EDI systems, Sales Management Softwares, was a regular part of my work. 
+
+- <strong>Attention to Detail</strong>: My strong attention to detail comes across in my programming in specific results, and DRY readable code. In my work I handled many accounts, sales, contracts and supply chain. The complex sales reporting and processing required a strong eye for detail in order to become as profitable as possible. Film Distribution is a royalty business and requires the most accurate sales reporting and accounting to be successful. Though I have an aptitude for attention to detail, I never let perfectionism stop me from achieving and creating a workable result.
+
+- <strong>Critical Thinking</strong>: One example of my critical thinking is in my work with big box store distributors (fulfilling product to Walmart, BestBuy etc). The sales reporting they provide is deeply complex and required me to use, shipping, cumulative reports and accounting records to create a system to accurately track their sales and the money they owed us. My excel skills came in very handy here as well. I bring this same critical thinking to my coding, like tweaking an existing code snippet to create a solution to a current problem or diagnosing an error. 
+
 
 ## <a name="education">Education</a>
 
@@ -51,18 +53,18 @@ Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, 
 
 ## <a name="work">Work Experience</a>
 
-**Kino Lorber** (January 2013 to June 2021)  
-_Manager of Special Markets - Sales & Distribution_, New York, USA May 2013 - Jun 2021
+
+**Kino Lorber** _Manager of Special Markets - Sales & Distribution_, New York, USA May 2013 - Jun 2021
 - Sales Representative and contract manager for Special Market wholesale accounts, including expanding the existing client base during a period of 3x department revenue growth
 - Managed operations for all Wholesale Accounts, including receiving and processing purchase orders, shipping logistics with warehouse, invoicing, sales reporting, account customer service, announcing new products weekly, and working closely with the accounting team
 - Team leadership of sales assistants responsible for order management and administration
 
-_Administrative Assistant_, New York, USA Mar 2013 - May 2013
+**Kino Lorber** _Administrative Assistant_, New York, USA Mar 2013 - May 2013
 - Managed administrative flow of the office including customer and third party inquiries
 - Provided training and day to day management of interns
 - Entered new films and products into 4D. Sales Representative and contract manager for Special Market wholesale accounts, including expanding the existing
 
- _Internship_, New York, USA Jan 2013 - Mar 2013
+**Kino Lorber** _Internship_, New York, USA Jan 2013 - Mar 2013
 - Completed research for publicity and distribution outreach
 - Managed email outreach campaigns
 - Researched films and prepared overview sheets for acquisition meetings
