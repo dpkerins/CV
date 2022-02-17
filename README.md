@@ -26,7 +26,7 @@ Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, 
 
 ## <a name="skills">Skills</a>
 
-- <strong>Fast Self Learner</strong>: I am great at teaching myself new skills in order to complete a project. At Makers, I picked up React and Prisma in order to use them for our final project, both of which were new to everyone on our team. As a member of a two-person growing sales team in my past work, teaching myself new skills like Excel, EDI systems, Sales Management Softwares, was a regular part of my work. 
+- <strong>Fast Self Learner</strong>: I am great at teaching myself new skills in order to complete a project. At Makers, I picked up React and Prisma in order to use them for our final project, both of which were new to everyone on our team. As a member of a two-person growing sales team in my past work, teaching myself new skills like Excel, EDI systems, Sales Management Softwares, was a regular part of my work. In a Junior Developer role this will allow me to be adaptable when working on new projects and technologies.
 
 - <strong>Attention to Detail</strong>: My strong attention to detail comes across in my programming in specific results, and DRY readable code. In my work I handled many accounts, sales, contracts and supply chain. The complex sales reporting and processing required a strong eye for detail in order to become as profitable as possible. Film Distribution is a royalty business and requires the most accurate sales reporting and accounting to be successful. Though I have an aptitude for attention to detail, I never let perfectionism stop me from achieving and creating a workable result.
 
