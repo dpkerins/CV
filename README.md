@@ -71,10 +71,8 @@ Tech Skills: Javascript, Ruby, React, Rails, Sinatra, Express.JS, Node.Js, CSS, 
 
 
 ## <a name="interests">Interests</a>
-- Baking
-- Travel
-- Movies
-- Books
-- Gardening
+- Baking: My current favorite thing to make is scones. 
+- Travel: The last new place I visited was Funchal, Madeira.
+- Movies: This is probably not surprising based on my previous career!
 
 
